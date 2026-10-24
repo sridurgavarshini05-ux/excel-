@@ -77,7 +77,7 @@ Microsoft Excel
 
 Author
 
-Your Name Data Analytics Intern, Unlox Academy LinkedIn | GitHub
+SRI DURGA VARSINI P, Data Science Intern, Unlox Academy GitHub
 
 Acknowledgements
 
